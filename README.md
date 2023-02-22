@@ -1,2 +1,3 @@
-# JavaScript-Fundamentals
-rahh!
+# Vad är javascript?
+
+
